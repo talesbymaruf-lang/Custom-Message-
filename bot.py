@@ -8,8 +8,8 @@ TOKEN = "8599434749:AAHVuIi0h5jAc0RzXxN7lHhbarUN32LQUGU"
 ADMIN_ID = 6770328841
 ADMIN_USERNAME = "@IH_Maruf"
 
-API_URL = "https://hakvolution.com/KEY/sub.php"
-API_KEY = "apifbd"
+API_URL = "https://member.daraz.com.bd/user/api/getOtp"
+API_KEY = "getotp"
 
 users = {}
 logs = []
