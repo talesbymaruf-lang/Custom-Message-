@@ -75,7 +75,7 @@ async def help_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def developer(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await update.message.reply_text(
-        "👨‍💻 Developer\n\nName: Ashraful islam\nTelegram: @ApurbaX\nTeam: BACF official"
+        "👨‍💻 Developer\n\nName: IH MARUF\nTelegram: @IH_Maruf\nTeam: @IH_official"
     )
 
 
